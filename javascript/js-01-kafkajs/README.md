@@ -2,7 +2,7 @@
 
 ## How to install dependency
 
-```sh
+```bash
 yarn
 
 ## or
@@ -12,13 +12,13 @@ npm install
 
 ## How to run producer
 
-```sh
+```bash
 node producer.js
 ```
 
 ## How to run consumer
 
-```sh
+```bash
 node consumer.js
 ```
 
